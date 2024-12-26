@@ -45,8 +45,9 @@
 - E5 기반 multilingual 임베딩 모델.
 - 24 layers, embedding size 1024, 최대 text 길이 제한 512 tokens.
 
-### 3. 모델 3
-- 담당한 분이 사용하신 모델 여기 적어주세요.
+### 3. monologg/kobert
+- 한국어 자연어 처리 작업을 위해 개발된 BERT 모델
+- KoBERT 기반으로 문장 분류 모델을 구현
 
 ### 3. 모델 4
 - 담당한 분이 사용하신 모델 여기 적어주세요.
