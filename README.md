@@ -41,8 +41,9 @@
 -BC Card, which is the largest credit card company in Korea, is a question/answer model learned using Korean financial datasets.
 -금융 도메인 지식을 기반으로 fine-tuning된 Llama 기반 언어 모델
 
-### 2. 모델 2
-- 담당한 분이 사용하신 모델 여기 적어주세요.
+### 2. intfloat/multilingual-e5-large-instruct
+- E5 기반 multilingual 임베딩 모델.
+- 24 layers, embedding size 1024, 최대 text 길이 제한 512 tokens.
 
 ### 3. 모델 3
 - 담당한 분이 사용하신 모델 여기 적어주세요.
